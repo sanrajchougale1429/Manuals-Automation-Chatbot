@@ -1,0 +1,17 @@
+# Web Interface
+streamlit
+
+# PDF Processing
+pymupdf
+
+# AI & LLM Framework
+openai
+langchain
+langchain-openai
+langchain-core
+langchain-community
+python-dotenv
+
+# Vector Database
+qdrant-client
+langchain-qdrant

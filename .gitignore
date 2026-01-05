@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+.env
+
+# Vector databases / local storage
+vector_store/
+weaviate_store/
+qdrant_store/
+*.db
+
+# PDF manuals / data
+manuals/
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
