@@ -1,0 +1,28 @@
+# Web Interface
+streamlit
+
+# PDF Processing
+pymupdf
+
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+
+# OpenAI (Cloud backend)
+langchain-openai
+openai
+
+# Anthropic Claude (Cloud backend)
+langchain-anthropic
+
+# Vector Database (ChromaDB - Local)
+chromadb
+langchain-chroma
+
+# Re-ranking (Optional but recommended)
+sentence-transformers
+
+# Utilities
+python-dotenv
+requests
